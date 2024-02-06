@@ -18,7 +18,7 @@ This GitHub repository serves as a comprehensive guide and resource hub for indi
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Javascript, HTML, CSS, NODE, Express JS, MongoDB, React...
 
 
 ## Roadmap
