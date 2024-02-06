@@ -29,7 +29,7 @@ Javascript, HTML, CSS, NODE, Express JS, MongoDB, React...
 - Section B React for Frontend Development with Redux
 - Section C React Native for Multiplatform App Development
 - Section D Backend Development with NodeJS
-- SECTION E REST ful API and Express
+- Section E REST ful API and Express
 - Section F Working with MongoDB and Express
 - Section G Deployment
 
