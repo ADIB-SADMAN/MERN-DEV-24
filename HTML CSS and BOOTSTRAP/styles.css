@@ -1,0 +1,32 @@
+/* Set background color and font styles */
+body {
+  background-image: url('./color_wave.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: Arial, sans-serif;
+}
+
+/* Make background image responsive */
+@media (max-width: 768px) {
+  body {
+    background-size: cover;
+  }
+}
+
+/* Extracted color palette from the image */
+:root {
+  --color-primary: #123456;
+  --color-secondary: #789abc;
+  --color-tertiary: #def123;
+}
+
+/* Apply color palette to the page */
+body {
+  background-color: var(--color-primary);
+  color: var(--color-secondary);
+}
+
+/* Set background color of "welcome to my website" part */
+h1 {
+  background-color: var(--color-primary);
+}
